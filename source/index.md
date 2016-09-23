@@ -394,7 +394,7 @@ Update and Install dependencies:
 ```
 Run the daemon
 ```
->shadowcoind -daemon
+>./shadowcoind -daemon
 
 ```
  On the inital start-up shadowcoind will return an error because it cannot find the configuration file shadowcoin.conf
